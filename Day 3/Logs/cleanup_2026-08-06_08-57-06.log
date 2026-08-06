@@ -1,0 +1,15 @@
+﻿[2026-08-06 08:57:06] [INFO] =================================================================
+[2026-08-06 08:57:06] [INFO] DWP Temp Cleanup - Session: 2026-08-06_08-57-06
+[2026-08-06 08:57:06] [INFO] Mode       : DRY RUN (no changes will be made)
+[2026-08-06 08:57:06] [INFO] Cutoff     : files older than 0 day(s) (before 2026-08-06 08:57:06)
+[2026-08-06 08:57:06] [INFO] Targets    : C:\Users\labuser\AppData\Local\Temp\2, C:\Windows\Temp
+[2026-08-06 08:57:06] [INFO] =================================================================
+[2026-08-06 08:57:06] [INFO] --- Scanning: C:\Users\labuser\AppData\Local\Temp\2 ---
+[2026-08-06 08:57:06] [INFO] Files matching criteria: 3
+[2026-08-06 08:57:06] [WARN] Locked, skipped: C:\Users\labuser\AppData\Local\Temp\2\41633f49-db4a-4649-819d-b073e4db82ab.tmp
+[2026-08-06 08:57:06] [WARN] Locked, skipped: C:\Users\labuser\AppData\Local\Temp\2\53f83266-e523-4538-9e1d-6b6bf0f8a9b0.tmp
+[2026-08-06 08:57:06] [WARN] Locked, skipped: C:\Users\labuser\AppData\Local\Temp\2\f2ebec0d-a23c-4599-a097-fb87d36cee5f.tmp
+[2026-08-06 08:57:06] [INFO] --- Scanning: C:\Windows\Temp ---
+[2026-08-06 08:57:06] [INFO] Files matching criteria: 0
+[2026-08-06 08:57:06] [INFO] Summary - Found:3 Moved:0 DryRun:0 Locked:3 Errors:0
+[2026-08-06 08:57:06] [INFO] === Cleanup complete ===
