@@ -1,7 +1,7 @@
 # KB: AVD POOL-FIN-01 Black Screen Post Login (L2/L3)
 
-Version: v 1.0  
-Date: 07/08/2026  
+Version: v1.0  
+Date: 2026-08-07  
 Status: Draft
 
 ## Background

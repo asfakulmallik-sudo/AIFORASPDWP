@@ -1,8 +1,8 @@
 # Runbook: AVD POOL-FIN-01 Black Screen Post Login (DWM igdumd64.dll Crash)
 
 Title: AVD POOL-FIN-01 Black Screen Post Login Remediation Runbook  
-Version: 1.0  
-Date: 07/08/2026  
+Version: v1.0  
+Date: 2026-08-07  
 Author: Sathishbabu  
 Reviewed: self  
 Status: draft  

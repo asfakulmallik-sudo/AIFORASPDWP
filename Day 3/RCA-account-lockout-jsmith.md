@@ -96,7 +96,7 @@ Contributing factors:
   - Use "show password" option before submit when available.
 - Policy and monitoring:
   - Review lockout threshold and observation window for balance between security and usability.
-  - Alert on clustered 4625 failures from a single endpoint before threshold is reached.
+  - Alert on 3 or more Event 4625 failures from a single endpoint within a 5-minute window, ahead of the lockout threshold being reached.
 - Service desk readiness:
   - Provide a rapid unlock runbook and SLA for lockout events.
   - If environment supports it, enable secure self-service unlock/password reset.

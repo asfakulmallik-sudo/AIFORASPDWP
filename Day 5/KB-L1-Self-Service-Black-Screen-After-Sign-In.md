@@ -1,7 +1,7 @@
 # Black Screen After Log In: Quick Help
 
 Version: v1.0  
-Date: 07/08/2026  
+Date: 2026-08-07  
 Status: Draft
 
 If your work screen opens to a black screen, do not worry. Your files and company information are safe. This problem usually clears after you try again.

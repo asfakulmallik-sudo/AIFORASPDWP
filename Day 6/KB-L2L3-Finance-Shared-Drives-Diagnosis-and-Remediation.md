@@ -1,7 +1,7 @@
 # KB: Finance Team Cannot Access Shared Drives (L2/L3)
 
 Version: v1.0
-Date: 10/08/2026
+Date: 2026-08-10
 Status: Draft
 
 ## Background

@@ -1,7 +1,7 @@
 # Cannot Access the Finance Shared Drive: Quick Help
 
 Version: v1.0
-Date: 10/08/2026
+Date: 2026-08-10
 Status: Draft
 
 If you get an "Access is denied" message or a red X on your Finance shared drive, do not worry. Your files have not been deleted or changed. This is usually a sign-in permissions issue that clears once you refresh your sign-in.

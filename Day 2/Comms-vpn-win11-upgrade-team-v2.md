@@ -1,0 +1,2 @@
+Team:
+Hi team, after the recent Windows 11 upgrade, a few devices didn't automatically get the new remote-access software installed, which could have affected connecting to internal systems. IT has now fixed this on the affected devices, reinstalled the software, and confirmed everyone can reach all internal resources with no data lost. If you notice you can't connect to internal systems or remote access stops working, please don't troubleshoot it yourself — just contact the IT Service Desk and mention this issue so they can quickly check your device.

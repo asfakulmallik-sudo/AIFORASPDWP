@@ -7,7 +7,7 @@ AVD POOL-FIN-01 Black Screen Post Login
 Resolved
 
 ## Incident Date
-2024-03-15
+2026-08-07
 
 ## Resolution Time
 10:00 AM (service restored and user-verified)
@@ -133,7 +133,7 @@ A graphics stack regression introduced in the updated POOL-FIN-01 image caused D
    - Application Error Event 1000 where faulting app is dwm.exe and module is igdumd64.dll
    - Desktop Window Manager Event 9009 spikes
    - TerminalServices Event 40 disconnect spikes after Event 21 logons
-3. Define objective go/no-go thresholds for post-deploy soak window.
+3. Define objective go/no-go thresholds for post-deploy soak window (e.g. zero Event 1000 dwm.exe crashes and less than 1% session-disconnect rate across a 2-hour, 50-session canary soak before wider rollout).
 
 ### Operational Readiness
 1. Maintain documented fast rollback procedure for every image release.

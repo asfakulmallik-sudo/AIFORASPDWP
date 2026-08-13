@@ -7,7 +7,7 @@ Single-User Login Failure - FINBRIDGE\\cthompson
 Resolved
 
 ## Incident Date
-2024-03-15
+2026-08-07
 
 ## Resolution Time
 09:09 AM (access restored and user-verified)
@@ -104,7 +104,7 @@ User login failure was caused by repeated bad credentials for FINBRIDGE\\cthomps
 1. Add lockout triage runbook step to immediately correlate Event 4740 with preceding Event 4776/4625 and concurrent Event 4771 sources.
 2. Add standard check for secondary source IP retry behavior when wrong-password failures persist.
 3. Require credential cache review on primary workstation and any secondary clients whenever lockout events occur.
-4. Capture a short post-recovery observation window to confirm no recurring Event 4776, 4625, 4771, or 4740 entries for the affected user.
+4. Capture a 24-hour post-recovery observation window to confirm no recurring Event 4776, 4625, 4771, or 4740 entries for the affected user.
 
 ## Ownership
 - Incident owner: DWP Engineering

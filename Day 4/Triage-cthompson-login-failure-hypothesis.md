@@ -49,7 +49,7 @@ Method: Scope facts only (no additional telemetry)
 ## Positioning Statement
 Do not commit to one cause yet. Current weighting favors identity and policy path issues first because the impact is limited to one user and no infrastructure change is reported.
 
-## Event Evidence Addendum (2024-03-15 08:44-09:12)
+## Event Evidence Addendum (2026-08-07 08:44-09:12)
 
 Source: Security Event Log on DESKTOP-FB022
 
