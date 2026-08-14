@@ -1,11 +1,13 @@
 # Intune Compliance Policy: Windows 11 Security Baseline Translation
 
 Title: Windows 11 Device Compliance Policy — Security Baseline Mapping
-Version: 1.0
-Date: 2026-08-11
+Version: 1.1
+Date: 2026-08-13
 Author: DWP Endpoint Security Engineer
 Status: Draft
 Scope: Microsoft Intune, Windows 11 managed devices, Settings Catalog / Compliance policy (System Security, Device Health, Device Properties)
+
+> **Change log (v1.1, 2026-08-13):** Added post-assignment validation steps for the first test device (where to check per-policy compliance status, Compliant/Not compliant/In grace period meaning for Conditional Access, and the three most common causes of a BitLocker false-non-compliant flag). See "Post-assignment validation steps" section below.
 
 > **Disclaimer on UI paths:** Intune admin center navigation and setting labels are updated frequently by Microsoft. Confirmed against a live tenant screenshot (2026-08-11): the top-level nav is **Devices > Manage devices > Compliance** (compliance policies now sit as a sibling of Configuration under "Manage devices", not as a standalone "Compliance" node). Paths below have been corrected to this structure. Any path still flagged with ⚠️ below that level (setting groupings inside a policy) has not yet been screenshot-confirmed and should be verified live before deployment.
 
